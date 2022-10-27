@@ -1,11 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2147c989-ca43-4a58-a61e-2829a87e9738" name="Changes" comment="" />
+    <list default="true" id="2147c989-ca43-4a58-a61e-2829a87e9738" name="Changes" comment="commit 2">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test de efectividad .xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/Test de efectividad .xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Tests/Bubble Method.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Tests/Bubble Method.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Tests/Insertion Method.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Tests/Insertion Method.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Tests/Selection Method.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Tests/Selection Method.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/functions/Funtions.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/functions/Funtions.kt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin File" />
+        <option value="Kotlin Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2GREiFYhxKUYHwfehnEruzHMPGO" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -17,9 +39,53 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false"
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/jiach/OneDrive/Escritorio/DAM/Programación/EjerciciosArrays",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "SDKs",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2"
   }
 }]]></component>
+  <component name="RunManager" selected="Kotlin.Insertion_MethodKt">
+    <configuration name="AngelKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AngelKt" />
+      <module name="EfectividadBusquedaYOrdenacion" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Bubble_MethodKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Bubble_MethodKt" />
+      <module name="EfectividadBusquedaYOrdenacion" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Insertion_MethodKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Tests.Insertion_MethodKt" />
+      <module name="EfectividadBusquedaYOrdenacion" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Selection_MethodKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Tests.Selection_MethodKt" />
+      <module name="EfectividadBusquedaYOrdenacion" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.Insertion_MethodKt" />
+        <item itemvalue="Kotlin.Selection_MethodKt" />
+        <item itemvalue="Kotlin.AngelKt" />
+        <item itemvalue="Kotlin.Bubble_MethodKt" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -28,18 +94,47 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1666343125623</updated>
+      <workItem from="1666343127401" duration="3420000" />
+      <workItem from="1666360383108" duration="45000" />
+      <workItem from="1666360438224" duration="161000" />
+      <workItem from="1666360610564" duration="87000" />
+      <workItem from="1666360707721" duration="32000" />
+      <workItem from="1666360828727" duration="84000" />
+      <workItem from="1666360949052" duration="281000" />
+      <workItem from="1666363661156" duration="1116000" />
+      <workItem from="1666458004005" duration="2871000" />
+      <workItem from="1666462786224" duration="201000" />
+      <workItem from="1666593439135" duration="1014000" />
+      <workItem from="1666595654054" duration="2943000" />
+      <workItem from="1666599301645" duration="1585000" />
+      <workItem from="1666600940612" duration="44000" />
+      <workItem from="1666856416719" duration="2464000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="false" />
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Test de los 3 primeros métodos de ordenacion de arrays." />
+    <MESSAGE value="commit 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit 2" />
   </component>
 </project>
